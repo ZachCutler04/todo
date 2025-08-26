@@ -1,0 +1,34 @@
+Today: 
+    - Send in alt vis review 
+
+
+Weekly Tasks: 
+    - Have a first draft of shiyi comic
+    - Make a full read of shiyi paper
+    - Run shiyi analysis 
+    - Do shiyi baseball cards
+    - Go through related work for shiyi paper
+    - Go through methods for shiyi paper
+    ☐ Update study with Alex’s changes
+    ☐ Make critiques for other 2
+    ☐ Fix audio problem
+    ☐ Make a grading rubric
+    ✔ Get first version of think aloud analysis working @done(25-08-26 15:15)
+    ✔ Send in reviews for alt vis paper to Andrew @done(25-08-26 11:15)
+    ☐ Outline related work section for literacy paper
+    ☐ Email about classes
+    ☐ Get Holly and Shiyi to pilot
+    ☐ Fix bug in authored
+    ☐ Update study critique with the understanding part Matt suggested
+    - Update study drawing with the follow up question
+    - Fix bug in revisit that makes it so the randomization doesnt work
+    ☐ Make critiques for other 2
+    - Do some quals prep (read through the quals in the drive mostly)
+    - Send Alex updated dc
+    - Add transcript lines back
+    - Add Tags back
+    - Get time working 
+    - get movement between participants and tasks working
+    - Get communication across tabs
+
+Given up: 

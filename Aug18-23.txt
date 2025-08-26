@@ -1,0 +1,24 @@
+Weekly Tasks: 
+    ✔ email irb @done(25-08-18 12:54)
+    ✔ Get revisit video with srt file @done(25-08-18 14:51)
+    ✔ Do the pilot for abrar @done(25-08-18 13:11)
+    ✔ Start comic for shiyi @done(25-08-18 14:51)
+
+    ✔ Add revisit to personal site @done(25-08-20 10:34)
+
+Given up: 
+    ☐ Get first version of think aloud analysis working
+    ☐ Update study with Alex’s changes
+    ☐ Make critiques for other 2
+    ☐ Fix audio problem
+    ☐ Make a grading rubric
+    ☐ Get first version of think aloud analysis working
+    - Send in reviews for both alt vis papers to Andrew
+    - Outline related work section for literacy paper
+    ☐ Email about classes
+    ☐ Get Holly and Shiyi to pilot
+    ☐ Fix bug in authored
+    ☐ Update study critique with the understanding part Matt suggested
+    - Update study drawing with the follow up question
+    - Fix bug in revisit that makes it so the randomization doesnt work
+    ☐ Make critiques for other 2
